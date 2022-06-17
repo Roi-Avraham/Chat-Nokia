@@ -17,7 +17,7 @@ If you want to change the ip or port of the server you must change them in the c
 
 2. Run the server in the command line(on pychram or other programming environment)/cmd(on windows)/ terminal(on linux).
 ![image](https://user-images.githubusercontent.com/65657971/174240264-aa9e83c2-f41d-47aa-8113-7f2c859534e6.png)
-3. Run how many clients you want to be in the chat room (there is only one chat room so all clients that connecting to the server will reach the same room.
+3. Run how many clients you want to be in the chat room (there is only one chat room so all clients that connecting to the server will reach the same room).
 4. For each client, write your client name
 ![image](https://user-images.githubusercontent.com/65657971/174240736-04a77a3a-9cc3-4ff1-b393-5f58002e0b87.png)
 5. Now you can start to send messges and they will be sent to all the clients in the room.
