@@ -29,8 +29,8 @@ roy client - secound client:
 roee client - Third client:
 ![image](https://user-images.githubusercontent.com/65657971/174241443-060a34be-4e25-4a9d-b371-fae92de52d04.png)
 6. To exit from the chat, the client can write "exit" or you can terminate his process.
-7. If the server fall, all the clients gets message the the server is disconnected. you need to press enter for finish the client process.
+7. If the server fall, all the clients gets message that the server is disconnected. you need to press enter for finish the client process.
 ![image](https://user-images.githubusercontent.com/65657971/174242292-e341ba34-8a55-43b3-b573-3904f32cfea5.png)
 
-Hope you enjoy using Chat :)!
+Hope you enjoy using the chat :)!
 Thank you very much for the opportunity!
