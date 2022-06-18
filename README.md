@@ -22,11 +22,11 @@ If you want to change the ip or port of the server you must change them in the c
 ![image](https://user-images.githubusercontent.com/65657971/174240736-04a77a3a-9cc3-4ff1-b393-5f58002e0b87.png)
 5. Now you can start to send messges and they will be sent to all the clients in the room.
 Example (roee send to everyone "hello world!"):
-roi client - first client:
+First client - roi:
 ![image](https://user-images.githubusercontent.com/65657971/174241125-72f20163-29f0-4a56-864b-8bec99fef02f.png)
-roy client - secound client:
+Secound client - roy:
 ![image](https://user-images.githubusercontent.com/65657971/174241279-71779416-e7ed-49d5-aba0-6e38a9e6671a.png)
-roee client - third client:
+Third client - roee:
 ![image](https://user-images.githubusercontent.com/65657971/174241443-060a34be-4e25-4a9d-b371-fae92de52d04.png)
 6. To exit from the chat, the client can write "exit" or you can terminate his process.
 7. If the server fell, all the clients gets message that the server is disconnected. You need to press enter for finish the client process.
