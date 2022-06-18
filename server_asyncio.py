@@ -2,7 +2,6 @@ import asyncio
 
 # the list of all the clients
 writers = []
-name_of_clients = {}
 
 '''
 The function "send" gets client(writer), nick name of client(name) and message.
@@ -38,7 +37,6 @@ async def handle(reader, writer):
     writer.write(f"Server: {message}".encode())
     name = await reader.read(100)
     user = name.decode().strip()
-    name_of_clients[writer] = user
 
     # sending welcome message
     message = f"welcome {user} to whenApp :) ! if you want to leave the group just write 'exit'"
