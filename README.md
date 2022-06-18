@@ -26,7 +26,7 @@ roi client - first client:
 ![image](https://user-images.githubusercontent.com/65657971/174241125-72f20163-29f0-4a56-864b-8bec99fef02f.png)
 roy client - secound client:
 ![image](https://user-images.githubusercontent.com/65657971/174241279-71779416-e7ed-49d5-aba0-6e38a9e6671a.png)
-roee client - Third client:
+roee client - third client:
 ![image](https://user-images.githubusercontent.com/65657971/174241443-060a34be-4e25-4a9d-b371-fae92de52d04.png)
 6. To exit from the chat, the client can write "exit" or you can terminate his process.
 7. If the server fell, all the clients gets message that the server is disconnected. You need to press enter for finish the client process.
