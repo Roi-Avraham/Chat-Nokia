@@ -7,6 +7,7 @@ I worte 2 scripts in python using asyncio libary (without using threads):
   
 **Important note:** 
 the server and client can be run on windows or linux. If you run the client on linux, you must put line 86 (in client script) in comment.
+
 ![image](https://user-images.githubusercontent.com/65657971/174467522-486f7fc5-f308-4b1a-b69d-2cfae2ce9017.png)
 
 
