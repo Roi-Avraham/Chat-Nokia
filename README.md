@@ -33,7 +33,7 @@ roee client - third client:
 ![image](https://user-images.githubusercontent.com/65657971/174241443-060a34be-4e25-4a9d-b371-fae92de52d04.png)
 6. To exit from the chat, the client can write "exit" or you can terminate his process.
 7. If the server fell, all the clients gets message that the server is disconnected. You need to press enter for finish the client process.
-![image](https://user-images.githubusercontent.com/65657971/174242292-e341ba34-8a55-43b3-b573-3904f32cfea5.png)
+![image](https://user-images.githubusercontent.com/65657971/174467657-d1e0f2fd-5aad-4b1b-922b-771fb3618cc6.png)
 
 Hope you enjoy using the chat :)!
 Thank you very much for the opportunity!
