@@ -39,7 +39,7 @@ async def receive_messages(reader):
         try:
             data = await reader.read(100)
             if len(data) == 0:
-                print("the server is disconnected! please press enter to exit")
+                print("The server is disconnected! please press enter to exit")
                 break
             # check if the server disconnect the client
             if data.decode() == "Server: Bye" or len(data) == 0:
