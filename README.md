@@ -1,7 +1,7 @@
 # Chat-Nokia
 
 **Chat room - "whenApp"**
-I worte 2 scripts in python using asyncio libary (without using threads):
+I worte 2 scripts in python using asyncio libary:
   1 - server
   2 - client
   
