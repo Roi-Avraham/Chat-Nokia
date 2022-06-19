@@ -26,7 +26,9 @@ the server and client can be run on windows or linux. If you run the client on l
 4. For each client, write your client name
   ![image](https://user-images.githubusercontent.com/65657971/174240736-04a77a3a-9cc3-4ff1-b393-5f58002e0b87.png)
 5. Now you can start to send messges and they will be sent to all the clients in the room.
+
    Example (roee send to everyone "hello world!"):
+   
    roi client - first client:
    ![image](https://user-images.githubusercontent.com/65657971/174241125-72f20163-29f0-4a56-864b-8bec99fef02f.png)
    roy client - secound client:
