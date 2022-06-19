@@ -20,7 +20,7 @@ the server and client can be run on windows or linux. If you run the client on l
 
 2. Run the server in the command line(on pychram or other programming environment)/cmd(on windows)/ terminal(on linux).
 
-  ![image](https://user-images.githubusercontent.com/65657971/174240264-aa9e83c2-f41d-47aa-8113-7f2c859534e6.png)
+   ![image](https://user-images.githubusercontent.com/65657971/174240264-aa9e83c2-f41d-47aa-8113-7f2c859534e6.png)
 
 3. Run how many clients you want to be in the chat room (there is only one chat room so all the clients that connecting to the server will reach the same room).
 4. For each client, write your client name
