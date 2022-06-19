@@ -12,8 +12,8 @@ the server and client can be run on windows or linux. If you run the client on l
 
 
 **Stages of activating the chat**
-1. In the server, in lines 76 and 77 you can choose the server IP and PORT.
-   ![image](https://user-images.githubusercontent.com/65657971/174239410-3546b917-6b60-4103-ab89-a75f380bbaa3.png)
+1. In the server, in lines 83 and 84 you can choose the server IP and PORT.
+   ![image](https://user-images.githubusercontent.com/65657971/174473972-38ba4649-40a0-4edd-a53d-66bcf2b587b1.png)
 
    I put the ip 127.0.0.1 and the port to be 4444.
    If you want to change the ip or port of the server you must change them in the client script in lines 52-53 too.
